@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(231, 238, 236);
+}
+
+.user-dashboard {
+  align-items: center;
+  height: 5rem;
+  justify-content: center;
+  padding-left: 15rem;
+  padding-top: 1.5rem;
+  color: black;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
